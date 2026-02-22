@@ -1,9 +1,3 @@
-=========================
+Changing all code for pr3
 
-Edit third step
-
-Not enough changes for conflicts
-
-Adding code for pr2
-
-==================================
+Will create conflicts?
