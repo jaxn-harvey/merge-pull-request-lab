@@ -2,7 +2,7 @@
 
 Edit third step
 
-Not enough changes for conflicts so am adding more changes
+Not enough changes for conflicts
 
 Adding code for pr2
 
