@@ -1,6 +1,9 @@
+=========================
 
-Edit third part
+Edit third step
 
-Adding code to this project, Jackson changed text
+Not enough changes for conflicts so am adding more changes
 
 Adding code for pr2
+
+==================================
